@@ -20,7 +20,7 @@ public class Main {
             e.printStackTrace();
         }
 
-        // 2407905288
+        // Answer: 2407905288
         System.out.println(sortAndCount(array, 0, array.length - 1));
     }
 
