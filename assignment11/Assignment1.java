@@ -19,7 +19,6 @@ public class Main {
                 freq[i] = sc.nextInt();
             }
 
-
             Huffman huffman = new Huffman();
             huffman.buildTree(freq);
 
